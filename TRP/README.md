@@ -1,5 +1,5 @@
-## TBIF
-Pytorch implementation of Transformer-based Information Fusion for Knowledge Graph Completion.
+## CBLiP for TRP
+Pytorch implementation of Connection-Biased Link Prediction in KGs [transductive setting].
 To run experiments on the datasets:
 - Go to run.sh
 - Uncomment the line corresponding to the dataset you want to run
