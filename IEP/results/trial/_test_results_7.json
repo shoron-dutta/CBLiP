@@ -1,0 +1,35 @@
+{
+    "0": {
+        "hits_1": {
+            "test_mr": 5.282,
+            "test_mrr": 0.627,
+            "test_hits_1": 0.505,
+            "test_hits_3": 0.691,
+            "test_hits_10": 0.872,
+            "test_loss": 0.175,
+            "test_auc": 0.88,
+            "best_epoch": 0
+        },
+        "loss": {
+            "test_mr": 5.053,
+            "test_mrr": 0.652,
+            "test_hits_1": 0.537,
+            "test_hits_3": 0.723,
+            "test_hits_10": 0.888,
+            "test_loss": 0.167,
+            "test_auc": 0.881,
+            "best_epoch": 0
+        },
+        "mrr": {
+            "test_mr": 5.372,
+            "test_mrr": 0.624,
+            "test_hits_1": 0.479,
+            "test_hits_3": 0.723,
+            "test_hits_10": 0.878,
+            "test_loss": 0.173,
+            "test_auc": 0.895,
+            "best_epoch": 0
+        },
+        "time": "0:00:27.954314"
+    }
+}
