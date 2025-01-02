@@ -1,5 +1,5 @@
 ## CBLiP
-Pytorch implementation of CBLiP- a connection-biased transformer model for KG link prediction.
+Pytorch implementation of [CBLiP](https://arxiv.org/pdf/2410.00876)- a connection-biased transformer model for KG link prediction.
 
 To run KG Link Prediction experiments on the datasets:
 
